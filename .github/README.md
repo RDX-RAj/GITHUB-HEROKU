@@ -33,14 +33,13 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/RDX-RAj/GITHUB-HEROKU"> <img src="https://img.shields.io/badge/𝖡𝖧𝖮𝖲𝖣𝖨 𝖪 𝖪𝖱𝖫𝖮 𝖣𝖤𝖯𝖫𝖮𝖸-black?style=for-the-badge&logo=heroku" width="129" height="32"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/RDX-RAj/GITHUB-HEROKU"> <img src="https://img.shields.io/badge/𝖡𝖧𝖮𝖲𝖣𝖨 𝖪 𝖪𝖱𝖫𝖮 𝖣𝖤𝖯𝖫𝖮𝖸-black?style=for-the-badge&logo=heroku" width="149" height="32"/></a></p>
 
 
 
 
 
-[![Telegram](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/100px-Telegram_logo.svg.png)](https://t.me/ll_RJ29RDX_ll)
-
+[![Telegram](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/100px-Telegram_logo.svg.png)](https://t.me/ll_RJ29RDX_ll) [![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Instagram_logo.svg/100px-Imstagram_logo.svg.png)](https://t.me/vdjrajofficial)
 ``` python
 
 ๏ ๏
